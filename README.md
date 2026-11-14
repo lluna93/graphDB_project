@@ -69,8 +69,8 @@ Neo4j 기반 고객 커뮤니티 분석 대시보드의 실제 실행 화면입�
 ### 3. 선택 커뮤니티 상세 분석
 ![커뮤니티 상세 분석](docs/images/screenshots/dashboard-4.png)
 
-### 4. 구매 집중도 및 교차 판매 대상
-![구매 집중도 및 교차 판매](docs/images/screenshots/dashboard-5.png)
+### 4. 교차 판매 대상
+![교차 판매](docs/images/screenshots/dashboard-5.png)
 
 ### 5. 개인화 추천 TOP 3
 ![개인화 추천 대상 고객](docs/images/screenshots/dashboard-6.png)

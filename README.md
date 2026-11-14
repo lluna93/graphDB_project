@@ -51,4 +51,34 @@ pip install -r requirements.txt
 python -m uvicorn app.main:app --reload --port 8000
 ```
 
-**3. Frontend 실행
+---
+
+## 실행 화면 (Screenshots)
+
+Neo4j 기반 고객 커뮤니티 분석 대시보드의 실제 실행 화면입니다.
+
+<details>
+<summary><strong>대시보드 전체 화면 보기 (7장)</strong></summary>
+
+### 1. 고객 커뮤니티 분석 및 KPI
+![고객 커뮤니티 분석 및 KPI](docs/images/screenshots/dashboard-1.png)
+
+### 2. 커뮤니티별 특화 상품
+![커뮤니티별 특화 상품](docs/images/screenshots/dashboard-2.png)
+
+### 3. 고객 관계 그래프
+![고객 관계 그래프](docs/images/screenshots/dashboard-3.png)
+
+### 4. 선택 커뮤니티 상세 분석
+![커뮤니티 상세 분석](docs/images/screenshots/dashboard-4.png)
+
+### 5. 구매 집중도 및 교차 판매 대상
+![구매 집중도 및 교차 판매](docs/images/screenshots/dashboard-5.png)
+
+### 6. 개인화 추천 대상 고객 선택
+![개인화 추천 대상 고객](docs/images/screenshots/dashboard-6.png)
+
+### 7. 개인화 추천 TOP 3
+![개인화 추천 TOP 3](docs/images/screenshots/dashboard-7.png)
+
+</details>

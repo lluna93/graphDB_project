@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+neo4j>=5.20,<7
+python-dotenv
+pydantic
+pandas
+openpyxl
+igraph
+leidenalg
